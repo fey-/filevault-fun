@@ -1,4 +1,4 @@
 filevault-fun
 =============
 
-Random Stuff for Filevault
+Various FileVault related scripts.
